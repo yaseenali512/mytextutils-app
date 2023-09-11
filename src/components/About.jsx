@@ -107,6 +107,7 @@ const About = (props) => {
         </div>
       </div>
       <div className="container"></div>
+      let a =7;
     </div>
   );
 };
